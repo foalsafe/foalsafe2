@@ -1,7 +1,1 @@
-echo "# foalsafe2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/foalsafe/foalsafe2.git
-git push -u origin main
+This repository is for the Foalsafe Alarm - Version 2.
